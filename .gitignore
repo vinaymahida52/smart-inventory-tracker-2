@@ -1,0 +1,19 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+*.log
+.DS_Store
+Thumbs.db
+
+# SQLite dev database
+server/src/db/*.sqlite
+server/src/db/*.sqlite-journal
+
+# editor
+.vscode/
+.idea/
+
+# Vercel CLI local project link (account-specific, not for version control)
+.vercel/
