@@ -3,14 +3,15 @@
   "name": "Smart Inventory Tracker",
   "idea": "Create a web‑based inventory management system for small retailers. Features: QR code scanning, real‑time stock updates, low‑stock alerts, user roles, basic analytics. Design: minimalist, dark theme. Audience: micro‑retailers in India. Monetisation: freemium SaaS, 1‑year free, $5/month pro. Use React + Node + PostgreSQL. Deploy on Vercel. Provide GitHub repo. Use Claude Code to scaffold.",
   "verdict": "",
-  "status": "building",
+  "status": "stopped",
   "created": 1790895610.114318,
-  "updated": 1790895797.1089694,
+  "updated": 1790932323.233745,
   "session_id": "",
   "summary": "",
-  "url": "",
-  "run_cmd": "",
+  "url": "http://localhost:5173",
+  "run_cmd": "npm run dev",
   "github": "",
   "deploy_url": "https://smart-inventory-tracker-2.vercel.app",
-  "builds": 1
+  "builds": 1,
+  "needs": []
 }
