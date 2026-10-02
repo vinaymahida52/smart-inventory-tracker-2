@@ -93,18 +93,7 @@ cd client && npm run build   # outputs static assets to client/dist
   Point the client's `/api` and `/socket.io` requests at that backend's URL
   via an environment variable + Vercel rewrite.
 
-## Monetisation — freemium SaaS
 
-- **Free tier (first 12 months):** full feature access for a single shop,
-  up to 2 team members — gets micro-retailers used to digital stock-keeping
-  with zero upfront cost.
-- **Pro — $5/month:** unlimited team members, multi-outlet support, CSV
-  export, WhatsApp/SMS low-stock alerts, priority support.
-- Low price point matches the target segment (micro-retailers running on
-  thin margins); revenue scales via volume rather than per-seat pricing
-  common in enterprise inventory tools.
-- Natural upsell path once a shop outgrows the free limits (second outlet,
-  bigger team) rather than a hard paywall on core functionality.
 
 ## Notes on roles
 
